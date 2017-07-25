@@ -36,6 +36,5 @@ object SparkHiveSQL {
     recordsDF.createOrReplaceTempView("records")
     sql("SELECT * FROM records r JOIN src s ON r.key = s.key").show()
 
-
   }
 }
