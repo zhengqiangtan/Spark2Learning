@@ -56,9 +56,6 @@ object DepartmentAvgSalaryAndAgeStat {
 //      +--------------------+------+-----------+--------+
 
 
-
-
-
     // 基础知识回顾
     // dataframe == dataset[Row]
     // dataframe的类型是Row，所以是untyped类型，弱类型
