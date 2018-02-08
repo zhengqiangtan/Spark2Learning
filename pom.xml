@@ -66,5 +66,15 @@
             <artifactId>httpcore</artifactId>
             <version>4.4.1</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.bdgenomics.adam/adam-core-spark2 -->
+        <dependency>
+            <groupId>org.bdgenomics.adam</groupId>
+            <artifactId>adam-core-spark2_2.11</artifactId>
+            <version>0.20.0</version>
+        </dependency>
+
+
+
     </dependencies>
 </project>
